@@ -13,10 +13,13 @@
 ### Version
 
 > Version follows a loose version of [semver](https://semver.org/), where:
+> 
 > Given a version number MAJOR.MINOR.PATCH, increment the:
 > 
 > MAJOR version when you make major, incompatible protocol changes
+> 
 > MINOR version when you add new information or expansion to a protocol in a backwards compatible manner
+> 
 > PATCH version when you make backwards compatible corrections or bug-fixes
 
 1.0.0
