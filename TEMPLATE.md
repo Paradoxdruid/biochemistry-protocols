@@ -10,6 +10,17 @@
 
 > (optional) Inclusion of an appropriate journal or other citation, in ACS, JBC, or other common reference format.  Typically, the journal article where this protocol was introduced and used; recognizing that protocols necessarily build iteratively on previous work.
 
+### Version
+
+> Version follows a loose version of [semver](https://semver.org/), where:
+> Given a version number MAJOR.MINOR.PATCH, increment the:
+> 
+> MAJOR version when you make major, incompatible protocol changes
+> MINOR version when you add new information or expansion to a protocol in a backwards compatible manner
+> PATCH version when you make backwards compatible corrections or bug-fixes
+
+1.0.0
+
 ## Table of Contents
 
 * [Materials & Instrumentation](#materials--instrumentation)
