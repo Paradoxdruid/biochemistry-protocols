@@ -10,6 +10,10 @@
 
 > (optional) Inclusion of an appropriate journal or other citation, in ACS, JBC, or other common reference format.  Typically, the journal article where this protocol was introduced and used; recognizing that protocols necessarily build iteratively on previous work.
 
+### Version
+
+1.0.0
+
 ## Table of Contents
 
 * [Materials & Instrumentation](#materials--instrumentation)

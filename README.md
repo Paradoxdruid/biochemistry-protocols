@@ -1,6 +1,6 @@
 # Biochemistry Protocols
 
-This repository is a storage place for accessible versions of biochemistry, chemistry, and biological sciences protocols.  It will initially include protocols from the [Bonham Lab](https://bohamlab.com), but others are very welcome to submit pull requests to add additional protocols and methods.
+This repository is a storage place for user-contributed versions of biochemistry, chemistry, and biological sciences protocols.  It will initially include protocols from the [Bonham Lab](https://bohamlab.com), but others are very welcome to submit [pull requests](https://github.com/Paradoxdruid/biochemistry-protocols/pulls) to add additional protocols and methods.
 
 ## Motivation
 
@@ -14,11 +14,13 @@ This repository then, is a first-draft model of a system to adopt the principles
 
 Currently, protocols documents are divided into directories based on their molecular/chemical target.  This organization is likely to be revisited in the future, and a more formal organization system to be adopted.  Suggestions are welcome!
 
+A short list of all current Protocols is available in [CURRENT.md](CURRENT.md)
+
 ## Contributing
 
-Contributions are very, very welcome.  For corrections, problem reports, troubleshooting requests, or other modifications to existing reports, please use the "Issues" feature of this repository.
+Contributions are very, very welcome.  For corrections, problem reports, troubleshooting requests, or other modifications to existing reports, please use the [Issues](https://github.com/Paradoxdruid/biochemistry-protocols/issues) feature of this repository.
 
-New contributions please submit following the format specified in [TEMPLATE.md](TEMPLATE.md)
+New contributions please submit a [pull request](https://github.com/Paradoxdruid/biochemistry-protocols/pulls) following the format specified in [TEMPLATE.md](TEMPLATE.md)
 
 ## Citing
 
